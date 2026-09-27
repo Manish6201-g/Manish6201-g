@@ -1,4 +1,11 @@
 ## Hi there 👋
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="Manish Profile Banner" src="light.svg" width="100%">
+  </picture>
+</div>
 
 <!--
 **Manish6201-g/Manish6201-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
